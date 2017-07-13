@@ -11,6 +11,12 @@ import java.sql.Statement;
  *
  * @author Danut
  */
+
+/**
+ *
+ * @author Danut
+ */
+
 public class Adauga extends javax.swing.JFrame {
 
     /**
